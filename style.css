@@ -149,6 +149,14 @@ padding-bottom: 20px;
   box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
   margin-bottom: 40px;
 }
+.name-img-div5{
+  display: flex;
+  flex-direction: row;
+  gap: 17px;
+  padding-top: 25px;
+  padding-bottom: 18px;
+  /* height: 20px; */
+}
 @media(width>1023px){
   .container{
     width: 80%;
